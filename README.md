@@ -9,12 +9,12 @@ The support staff is completely anonymous, nor we do not know or store any numbe
 
 There are a total of about ~50 staffers in RAPLine, of which the RAPLine board are the only members of RAPLine who are de-anonymized, and provide vital functions to ensure the operations of RAPLine
 
-- **Carter Levine, Yasmina Ghadban**: `co-trainers`: Responsible for training RAPLine staffers; all staffers undergo a rigorous semester-long training course before they are ready to staff
-- **Vaishnavi Sharma**: `online chair`: Provies technology support to RAPLine
-- **Marianne** `marketing chair`: Responsible for marketing efforts, and fostering peer connection within the broader Penn community
-- **Jessica Reiner**: `scheduling coordinator` - Responsible for coordinating staff availability for each moth, making sure the line is staffed!
+- **Carter Levine, Yasmina Ghadban** `co-trainers`: responsible for training RAPLine staffers; all staffers undergo a rigorous semester-long training course before they are ready to staff
+- **Vaishnavi Sharma**: `online chair`: provides technology support to the RAPLine team
+- **Maryanne** `marketing chair`: responsible for marketing efforts, and fostering peer connection within the broader Penn community
+- **Jessica Reiner**: `scheduling coordinator`: responsible for coordinating staff availability for each moth, making sure the line is staffed!
 - **Katey Givan-Haugland** `RAPLine liason`: provides training for Penn teaching assistants, faculty, and student clubs in mindfulness and peer support
-- **Charlotte Bauch, Madeline Smith**: `co-presidents` - Responsible for establishing and maintaining transparent relationship with CAPS and the University administration
+- **Charlotte Bauch, Madeline Smith** `co-presidents`: responsible for establishing and maintaining transparent relationship with CAPS and the University administration
 
 
 ## Contact
