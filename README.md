@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to Reach-A-Peer Helpline (RAPline)
 
-You can use the [editor on GitHub](https://github.com/Penn-Rapline/Penn-Rapline.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The Reach-A-Peer Helpline (RAPLine) is an anonymous peer to peer support group at the University of Pennsylvania that offers information, support, and referrals;
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The support staff is completely anonymous, nor we do not know or store any numbers from any callers, in order to protect confidentiality and the best support we can; We take confidentiality extremely seriously, and only break confidentiality in extreme circumstances via activation of our emergency protocol
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## RAPLine Board
 
-```markdown
-Syntax highlighted code block
+There are a total of about ~50 staffers in RAPLine, of which the RAPLine board are the only members of RAPLine who are de-anonymized, and provide vital functions to ensure the operations of RAPLine
 
-# Header 1
-## Header 2
-### Header 3
+- **Carter Levine, Yasmina Ghadban**: `co-trainers`: Responsible for training RAPLine staffers; all staffers undergo a rigorous semester-long training course before they are ready to staff
+- **Vaishnavi Sharma**: `online chair`: Provies technology support to RAPLine
+- **Marianne** `marketing chair`: Responsible for marketing efforts, and fostering peer connection within the broader Penn community
+- **Jessica Reiner**: `scheduling coordinator` - Responsible for coordinating staff availability for each moth, making sure the line is staffed!
+- **Katey Givan-Haugland** `RAPLine liason`: provides training for Penn teaching assistants, faculty, and student clubs in mindfulness and peer support
+- **Charlotte Bauch, Madeline Smith**: `co-presidents` - Responsible for establishing and maintaining transparent relationship with CAPS and the University administration
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Contact
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Penn-Rapline/Penn-Rapline.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+As always, we invite you to reach out to `pennrapline@gmail.com` with any quesitons and ideas; we look forward to hearing from you!
