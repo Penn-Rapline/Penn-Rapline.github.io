@@ -2,7 +2,7 @@
 
 The Reach-A-Peer Helpline (RAPLine) is an anonymous peer to peer support group at the University of Pennsylvania that offers information, support, and referrals;
 
-The support staff is completely anonymous, nor we do not know or store any numbers from any callers, in order to protect confidentiality and the best support we can; We take confidentiality extremely seriously, and only break confidentiality in extreme circumstances via activation of our emergency protocol
+The support staff is completely anonymous, and we do not know or store any numbers from any callers, in order to protect confidentiality and the best support we can; We take confidentiality extremely seriously, and only break confidentiality in extreme circumstances via activation of our emergency protocol
 
 The explorer is also invited to review [our homepage](https://www.vpul.upenn.edu/rap-online/) at the University of Pennslyvania. In general, updates would be reflected on this webpage before it is updated there.
 
